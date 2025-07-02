@@ -23,7 +23,7 @@ Add the following dependency to your project:
 
 ```kotlin
 dependencies {
-    implementation("io.github.breninsul:log-time-aspect-starter:1.0.0")
+    implementation("io.github.breninsul:log-time-aspect-starter:1.0.1")
 }
 ```
 
@@ -33,7 +33,7 @@ For Maven:
 <dependency>
     <groupId>io.github.breninsul</groupId>
     <artifactId>log-time-aspect-starter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 

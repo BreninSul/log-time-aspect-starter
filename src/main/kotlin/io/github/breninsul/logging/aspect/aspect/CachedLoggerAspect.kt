@@ -1,6 +1,6 @@
 package io.github.breninsul.logging.aspect.aspect
 
-import io.github.breninsul.logging.aspect.LoggerClassesCache
+import io.github.breninsul.logging.aspect.aspect.LoggerClassesCache
 import org.aspectj.lang.ProceedingJoinPoint
 import java.util.logging.Logger
 
